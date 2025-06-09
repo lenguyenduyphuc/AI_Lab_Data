@@ -32,8 +32,8 @@ def write_json_array(df: pd.DataFrame, dest: Path, instruction: str) -> None:
     dest.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
 
 # ── CLI ───────────────────────────────────────────────────────────────────
-INPUT_FILE   = Path("facebook.xlsx")
-OUTPUT_FILE  = Path("facebook.json")
+INPUT_FILE   = Path("Toxicity_2.xlsx")
+OUTPUT_FILE  = Path("Toxicity_2.json")
 INSTRUCTION  = "Classify the text: "
 
 def main() -> None:
