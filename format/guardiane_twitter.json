@@ -7897,7 +7897,7 @@
   {
     "instruction": "Classify the text: ",
     "input": "go back on my meds cuz i be do really bad without them",
-    "output": "Emotional Distress Mental Health Risk"
+    "output": "Emotional Distress"
   },
   {
     "instruction": "Classify the text: ",
