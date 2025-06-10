@@ -32,8 +32,8 @@ def write_json_array(df: pd.DataFrame, dest: Path, instruction: str) -> None:
     dest.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
 
 # ── CLI ───────────────────────────────────────────────────────────────────
-INPUT_FILE   = Path("mental_disorders_reddit_labelled_cp_20250609_191934.xlsx")
-OUTPUT_FILE  = Path("guardiane_mental_disorders_6.json")
+INPUT_FILE   = Path("mental_disorders_reddit_labelled_cp_20250609_212001.xlsx")
+OUTPUT_FILE  = Path("guardiane_mental_disorders_7.json")
 INSTRUCTION  = "Classify the text:"
 
 def main() -> None:
@@ -58,7 +58,6 @@ def main() -> None:
     )
 
     df["prompt"]    = df["prompt"].apply(clean)
-    df["completion"] = df["completion"].apply(lambda x: clean(x).title())
 
     write_json_array(df, OUTPUT_FILE, INSTRUCTION)
     print(f"✅ Wrote {len(df):,} records → {OUTPUT_FILE.resolve()}")
