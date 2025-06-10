@@ -3,3 +3,11 @@
 ~$Reddit.xlsx
 Reddit.xlsx
 log
+/data/
+/data2/
+/data3/
+/data4/
+/labelled_scripts/
+log/
+*.xlsx
+~$*.xlsx
