@@ -32,9 +32,9 @@ def write_json_array(df: pd.DataFrame, dest: Path, instruction: str) -> None:
     dest.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
 
 # ── CLI ───────────────────────────────────────────────────────────────────
-INPUT_FILE   = Path("Toxicity_2.xlsx")
-OUTPUT_FILE  = Path("Toxicity_2.json")
-INSTRUCTION  = "Classify the text: "
+INPUT_FILE   = Path("mental_disorders_reddit_labelled_cp_20250609_191934.xlsx")
+OUTPUT_FILE  = Path("guardiane_mental_disorders_6.json")
+INSTRUCTION  = "Classify the text:"
 
 def main() -> None:
     sheet = 0
