@@ -1,0 +1,28 @@
+[
+    {
+        "instruction": "Classify the text:",
+        "input": "After years of dealing with depression self worth issues and suicidal thoughts I m finally at peace with who I am and where I am After years of dealing with depression self worth issues and suicidal thoughts I m finally at peace with who I am and where I am",
+        "output": "Suicidal Reference, Emotional Distress, Safe/Neutral"
+    },
+    {
+        "instruction": "Classify the text:",
+        "input": "It was like a knife cutting deeper and deeper with each sentence as she tore my world apart deservedly so and it was all over in less than five minutes Me and my teenage daughter are now back on good terms and I m back in her life again after me and my wife separated",
+        "output": "Emotional Distress, Safe/Neutral"
+      },
+      {
+        "instruction": "Classify the text:",
+        "input": "MKR noooooo Bye everyone Not watching anymore",
+        "output": "Emotional Distress, Unclear"
+      },
+      {
+        "instruction": "Classify the text:",
+        "input": "I was the same way I was treated for anxiety and depression but I noticed the meds I was on wasn t really working I tried several different kind Then I found out that bipolar runs in my family I talked to my doctor and I am finally on the right meds and I feel like a new person",
+        "output": "Emotional Distress, Safe/Neutral"
+      },
+      {
+        "instruction": "Classify the text:",
+        "input": "My mind must be completely in the gutter I am thinking about using some photo manipulation to add tougue to Jefferson s portrait and then take the photo with 18 month old Kira the with her legs splayed as she balances herself while she is sitting and Oh no That would just be too cruel But it would be very very funny also Remember Jimbo it is only a movie Do you see Sam You and I know that Jefferson and Kira are two valid living human beings and I am just using the power of suggestion to remind people of my presence despite their attempts to obliterate me The ghost in the machine",
+        "output": "Attacking Behavior, Unclear"
+      }
+      
+]
