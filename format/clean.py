@@ -32,9 +32,9 @@ def write_json_array(df: pd.DataFrame, dest: Path, instruction: str) -> None:
     dest.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
 
 # ── CLI ───────────────────────────────────────────────────────────────────
-INPUT_FILE   = Path("mental_disorders_reddit_labelled_cp_20250609_212001.xlsx")
-OUTPUT_FILE  = Path("guardiane_mental_disorders_7.json")
-INSTRUCTION  = "Classify the text:"
+INPUT_FILE   = Path("Twitter_parsed_2_20250611_191731.xlsx")
+OUTPUT_FILE  = Path("guardiane_twitter_2.json")
+INSTRUCTION  = "You are a mental health assessment expert. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference, Safe/Neutral or Unclear:"
 
 def main() -> None:
     sheet = 0
