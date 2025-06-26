@@ -8,6 +8,10 @@ log
 /data3/
 /data4/
 /labelled_scripts/
+/manual_label/
+/old_data/
+/scraping_scripts/
+*.py
 log/
 *.xlsx
 ~$*.xlsx
