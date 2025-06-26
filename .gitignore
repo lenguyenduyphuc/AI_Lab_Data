@@ -11,7 +11,7 @@ log
 /manual_label/
 /old_data/
 /scraping_scripts/
-*.py
+**/*.py
 log/
 *.xlsx
 ~$*.xlsx
