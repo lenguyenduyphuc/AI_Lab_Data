@@ -6,10 +6,10 @@ This project processes labeled data and counts the number of records in each cat
 
 | Label              | Count |
 | ------------------ | ----- |
-| Emotional Distress | 1000  |
-| Attacking Behavior | 998   |
-| Suicidal Reference | 1003  |
-| Safe/Neutral       | 999   |
+| Emotional Distress | 1499  |
+| Attacking Behavior | 1499  |
+| Suicidal Reference | 1503  |
+| Safe/Neutral       | 1499  |
 
 ## Usage
 
