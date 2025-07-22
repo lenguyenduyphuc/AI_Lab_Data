@@ -3,6 +3,7 @@
 /excels_data/
 /labelled/
 /manual/
+/old_manual/
 /processed_data/
 /scraping/
 **/*.py
