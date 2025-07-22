@@ -3426,11 +3426,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Talking is the best therapy",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Suicide a survivorâ s point of view",
     "output": "Emotional Distress"
   },
@@ -9998,5 +9993,10 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I spent Safe 0 years hiding depression on tour says former England bowler Steve",
     "output": "Emotional Distress"
+  },
+  {
+    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
+    "input": "hey idiot you were the one that was repeatedly undoing MY edits Go away AND STOP VANDALISING",
+    "output": "Attacking Behavior"
   }
 ]
