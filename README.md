@@ -6,9 +6,9 @@ This project processes labeled data and counts the number of records in each cat
 
 | Label              | Count |
 | ------------------ | ----- |
-| Emotional Distress | 2312  |
+| Emotional Distress | 2659  |
 | Attacking Behavior | 3841  |
-| Suicidal Reference | 1976  |
+| Suicidal Reference | 2478  |
 | Safe/Neutral       | 3986  |
 
 ## Usage
