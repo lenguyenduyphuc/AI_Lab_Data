@@ -4598,5 +4598,770 @@
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Fourth level warning e",
     "output": "Safe/Neutral"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Recently my borderline has got bad and now I am going on a two week vacation away from my girlfriend of 9 months in two days and I can t take it This is too much pressure and sadness all at once I have never been away from her this long I don t want to end up self harming again or something similar The thing is she is my pure existence she s like my energy without her I am only a mess of depression and bpd What can I do to help pass the time distract my mind or keep me busy Anyone had similar",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It always gets bad at night I feel like I ve been doing better but these times make me want to hurt myself",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m sitting here all alone on a weekend just like I always do Crying because the few friends I have would rather do anything than spend time with me I guess they re not actual friends I don t have a SO I m too fat and ugly for that I m diagusting I just wish that I could trade my life with someone who isn t like me Someone who won t waste their life sitting around feeling like a burden to everyone Someone who deserves it more than I do Anyone ever feel this way",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My husband of over 7 years just told me he wants to leave and take our daughter with him Because I ve been a lousy housekeeper and a crappy mother I just want to die Made worse by the fact that he s right and serious",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I met this young girl on a festival and spent some time with her We both seem to be quite into each other I will definitely be with her again but I am afraid of me ending up hurting her She even tried to commit suicide in january I can be supportive but not that much I have my own problems about getting involved with people that might make it even more difficult Help me",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My suicidal ideations are getting out of control and I m physically making myself ill from the anxiety and crying Just not sure what to do I don t have a therapist or psychiatrist at the moment",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve struggled with anorexia bulimia and BED for the past 9 years on and off and am currently relapsing with anorexia hard Around 14 I started self harming and relapsed from that when I got seriously mentally ill at 20 I ve stopped since September of 2014 but lately its been all I can think about Anyone else here BPD suffer from eating problems or want to pm me about self harm I don t have anyone in my life that I can talk to about these things except my therapist",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I was wondering if cutting your wrist downwards with the intent of suicide in your mind even if only for a few minutes is a suicide attempt And should it be treated as such I am worried one day I will finally make the cut that will finish me",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m sitting in a motel room alone ten minutes from the end of me on the planet Why do my attachments make me the low man on the value totem pole",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m ending it today I think I ve accepted it I can t enjoy life whatsoever and I doubt I will in the future I m an irritable asshole to family and paranoid towards my friends I probably unmeaningly scarred the love of my life I can t live this life I deserve to die for me and for everyone else too",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I can t control how hurt and upset I am right now I haven t had an episode in 2 months I m trying so hard not to hurt myself or drink but those are the only things that ever make it feel better I don t have any one else I can talk to i was never in dbt i don t know how to slow down i m in an episode and this is me reaching out trying to stop myself i m trying I don t want to be admitted again but thats the fastest way for me to get back on medicine that helps me",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It s all too much I don t deserve to keep going and I don t feel strong enough too anyway I m sick of this I can t keep living like this I don t know what to do anymore I need help I can t stop crying I can barely even type this",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Every time I make a small mistake at work its like a kick in the guts and by the time I finish in ready to die Anyone else feel the same Work is so goddamn triggering I don t think I can stand it for much longer",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I can t remember what the name is or if it has one What I mean is you know how you can have one mood for a couple of hours and then another on your average BPD day but sometimes it goes rapid fire Like right now for the past hour or so I ve been doing 5 minutes of suicidal self loathing and fury 5 minutes of giggly happiness 5 minutes of emptiness 5 minutes of rage 5 minutes of contentment and so on",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I don t know if this is from my bpd or bipolar Nothing triggered it I have no energy or motivation I feel sad but can t cry My doctor can t see me but prescribed a low dose of welbrutin over the phone The last time I took that I didn t sleep for over a week I can t tolerate antidepressants due to the bipolar Nothing interests me I just lay in bed a lot I have some valium and klonopin I thought I d mix with alcohol tonight to see if that would give me a moment of happiness",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Today I ripped out all my toenails completely on one foot because I was so sad and upset at being left alone Now it s 4am and I am in bed with a throbbing foot and trying not to cry so my boyfriend doesn t find out I think we can take this as a sign that things are out of control again Praying to God to give me some direction so I don t feel so lost",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am in a safe place and things are seemingly fine but I am paranoid they won t go on that way and I am so scared that something specific bad might happen in the nearest future I don t know how to get a grip and where to get support I am not sure I can handle this",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just got triggered by a reminder of past trauma by association not anything actually scary or threatening and I am freaking out I see a threat in everything now and I want to quit half of my plans for the next week over this because I am terrified that I ll become a victim again and all I can see is this threat everywhere Help",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "When I m PMSing like today I just get so ANGRY at everything The tiniest things will piss me off to no end and it s just a nightmare Do you guys get bad PMS and if so what are some tips to chill out Or do you just batten down the hatches and weather the storm",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Can we Or do we just learn ways to express ourselves while the emotions inside scream and scream louder BPD wants to control me I know that I can do DBT or CBT or swallow down some pills to appear normal but inside the screaming is louder Is this control Is this the idea of a cure It s better than before but fuck is this really as good as it it",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Anyone have experience with topiramate citalopram withdrawal I can t remember feeling anger disociation depersonalisation like this for a good 2 years",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "In my journey to live with my borderline I ve come across a problem I m struggling to recognise what part of my personality my identity is the borderline and what part is just innately me Or maybe I m doubting there is a difference that the borderline is as much part of my personality as my love of nature or my stubbornness How do you go about trying to untangle such a Gordian knot Then there is this fear that if I tug too hard on the knot will unravel into nothingness",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m just now realizing how I completely destroyed a 2 year relationship that was almost entirely characterized by me wearing down a wonderful person and really darkly affecting them for so long It s really scary to realize how differently I was perceiving my reality even though I know help is finally on the horizon Does it ever get less scary to deal with and does my control of this thing have a chance at getting better",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I hate change it makes me very uncomfortable I am not sure if it is a bpd thing or anxiety",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Why is it this hard Yes I won t deny that I had very strong feelings for her and things were pretty serious between us I knew it would take a while But why do you guys think it is so hard to move past my feelings after I lose someone",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I would like to relocate from this shitty little town back to the big city so I have access to a psychiatrist Naturally this will involve 1 telecommuting do people use the word telecommuting anymore and also 2 seeing my girlfriend less frequently Both of these deals are totally unacceptable to the other parties involved Of course",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I think I exhibit all the symptoms for BPD but am afraid that I will be perceived as someone that got self diagnosed online Any advice on how to approach my psychiatrist or any stories of how you were diagnosed would be very much welcome",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Everyday I am struggling My wife and I are at a final tipping point and I can t let that happen If I screw up 1 more time and mistrust her it literally means the end of our relationship So I have started to place notes everywhere around the house to remind me if I ever get a blackout to remind me how much she loves me and how much hell I am making her go through being untrusted I need to give her space She needs her privacy I am at a point of resolve I can t lose my wife",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just need someone to talk to and know I m not alone in the world",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Are there any other borderlines who don t want children I never want another human being let alone my own hypothetical children to ever feel the way I do Also I never want to be one of those BPD mums we read about Maybe I would adopt if I ever got completely stable But I can t stand the thought that someone I would love completely could resent me the way I resent my parents I am adopted btw",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Do we all splurge our emotions and feelings into poetry art song writing or some other form of creative expression I m just wondering because I grew up writing the saddest and most extreme shit on the face of the earth They called me Edgar Allen Poe in middle school You d think I d have faced a loss in my life but really there s a war inside me inside us at all times",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "So basic DBT principles and I do not get along at all Is there anything that has helped anyone else that doesn t rely on the same sort of mind over matter mindset",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Ugh life is hard Like I m so tired of the situation where normal people are ok and I am all in pain confused humiliated and lost It s like everyone else is walking through air and I am underwater",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "that s all on top of being the only friend i have she was the only friend i ve ever had for more than a year aaaaand was the only person i ve been in a relationship with for more than a week and to top it off we live in the same apartment building where she lives care free off her rich ass boyfriend s dime and i can t even make a fucking friend so i m still gonna have to see both of them every so often thank god it s friday or whatever the fuck",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just remembered a couple hours ago that last night I texted some people I shouldn t have then proceeded to get scared that I didn t know where I was or how I got there which always happens to be during episodes And I totally forgot this happened until those people texted me back Why does this happen",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Sometimes I laugh loudly and obnoxiously but don t feel anything Except contempt for myself for faking it Sometimes it s an awkward time to laugh ehehe Anyone Sorry no flair I m on mobile",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been diagnosed and do display a lot of the characteristics Some days I talk myself out of thinking I have it so I can stop worrying over it I ll just convince myself my psychiatrist was wrong Does anyone else do this Is it bad to be in denial",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am newly diagnosed 2wks How can I tell if a response I have is normal or a borderline reaction My husband has been doing some things that I can t manage to bring up because I just don t know And half the time he acts like he s scared of me because HIS therapist said that BPD was the next thing to Narcissistic and really bad Thank you for your responses",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I was recently diagnosed with BPD and I am having a very difficult time Anyone with BPD willing to PM about experiences",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "There is nothing more insulting than the fact my very existence is seen as dangerous and abusive Good day I just needed to say that",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I can deal with most of the bpd things I have The dissociating the impulses the splitting etc But I can t fucking get over how bad it has to hurt when someone does me wrong I feel like part of my soul got ripped out I hate this damn sickness",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Does anyone else get super upset when a friend declines doing a favour for you or does something that you would never ever do to them I ve come to realize that most of my splitting issues emerge from something like this where a friend declines giving me a lift to a party or giving me a piece of their food lol because I wouldn t hesitate to do that and much more for them I have come to the conclusion that I will always care about people far and above how much they will care for me",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "That was my very first mistake with my ex boyfriend He actually liked me beyond fucking and then discarding me so I couldn t bear to lose that It doesn t matter now anyway because I don t ever want to be involved with anyone ever again because they either discard you after using you or if they stay long enough they can t take it and they leave",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I cannot keep a job I always end up disliking going after a month or so and then keep calling in I have been late on my rent the last two months and need some advice please",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I hate that our unhealthy coping strategies actually make us feel better Yes I do feel better after binge eating choloate and candy and shit",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I feel like developing and maintaining a healthy relationship is both the one thing I m most focused on and the one thing I m least capable of doing",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I have BPD and it feels like I try or wish to discard every part of my identity Gender race interests friends politics everything I don t even know what the hell I am without others telling me yet I manage to try and discard every single piece of identity I become aware of When I can t get rid of it it becomes highly distressing I want to know that I m not totally alone",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "So my boyfriend started college at the beginning of the month And yesterday I found out he s actually made friends He was over theirs playing poker and today he s meeting them for lunch My anxiety is so bad my heart rate is literally 198bpm I wish I wasn t this way but I just am",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My emotions feel so out of control lately sparking the worst fights imaginable with my husband He is not well equipped to deal with my emotions and I end up getting treated like a child I guess because I can act like one I feel so lost and responsible for causing so much pain I scheduled a therapy appointment and am going to join a DBT group once another round starts I just feel like a terrible person and wanted to vent How do you get through these times yourself",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Has anyone else ever had this problem where when you tell a close friend about your diagnosis they do a bit of reading and come back to you I have like 8 9 of those things I know it sucks for you but it s not that big a deal It makes me feel pretty shit like I believe them think that it isn t that big a deal so why does it hurt me like that Why can t I cope",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Whenever I talk to someone especially texting I always end up second guessing whatever I say to the person Ooo that s the worst way to phrase that why are you asking so many questions she s clearly bored disinterested annoyed stop talking etc etc It sucks gives me serious anxiety and makes me over react to whoever I m talking to Any advice Or even just sympathy empathy",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "So I have multiple relationships I m poly but there are still times I feel unlovable Most of it revolves around my appearance My partners try and reassure me but it is never enough I feel like if I were just skinnier or a pretty fat girl they would love me more I don t know how to get past this and be comfortable in my own skin",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Relationships work friendships etc How do you know when it s the disorder and how do you know when it s real",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Adults will just ignore everything because it s easier for them that way Kids can tell when I m faking it too but don t know how to rationalize why someone acts so strange",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "and it s not my fault I feel like the stigma is so bad I should be writing this in r confessions and that enrages me",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My apologies if this is the wrong place to post this does anyone else obsessively watch movies to just get away from real life This is my only comfort if I didn t have TV which at this point I m fortunate to have I find that my symptoms get a lot worse I realize this is not the best way to cope but it s all I have If I lose that even for a day or two I feel so empty and lost as well as agitated Is this a common thing or am I once again one of those oddities",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been chilling in r anxiety and was popping in and out of r depression but that one makes me too sad And I never thought to check for my other issue BPD I m so happy I m not alone anymore My boyfriend is amazing at listening and helping me deal with my issues associated with bpd but I always feel bad because he doesn t know what it s like and I hate to make him depressed by talking about all the shit that goes through my mind on a daily basis Now I found you fine folks I feel better already",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "And it really fucking sucks It s like I have to walk but people only use one leg to walk and even though I REALLY REALLY want to use two and it feels so unatural and painful to use only one leg I force myself to use one leg But in order to do that I have to fucking tie my leg up chain it down etc etc in order to pass as normal It really really really fucking sucks",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Music serves as a form of escapism for me Lately life hasn t been fantastic and I ve been listening to my old playlists I notice specific songs applying to my current life situation This is my favourite song of all time https www youtube com watch v C9Q2Ytdyf2Q I can t help but think that it was written for me What are some other songs you find relatable",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I can t stop thinking about what it would be like to be at the funeral of a loved one I m filtering through family members and friends past lovers current lovers etc etc What would I say How would I feel I find myself reacting by crying uncontrollably to not caring at all why",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "In a relationship I begin to feel unwanted unattractive if my s o isn t interested in sex everyday every other day It seems irrational but then idk because I really feel this way Does anyone else go through this",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "How do regular people meet someone once and be totally fine with not meeting them again How can they stand not being with someone they kinda get along with 24 7 How doesn t everyone start getting panicky when its been half an hour since the last text message response How don t people miss someone they ve only met twice for ten minutes HOW DO NORMAL PEOPLE FUNCTION Not sure if attachment issues are always directly related to BPD but mine sure as heck are super related",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "The group isn t really run the way it s supposed to be I don t think it s helping me at all I don t like the other people in the group I can t even work through my feelings with a private therapist so what makes people think I ll do that in a group I m not taking away any skills I don t know Maybe I m just not committed enough My therapist was really excited that I was starting this I just want to stop going Has anyone else tried DBT and didn t like it",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "You know how some of us get needy and clingy when we really like someone And we feel rejected and abandoned when they aren t available to talk Like our whole sense of well being depends on this person Well I really need to figure out how to stop these feelings Like right now Help",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been diagnosed twice as bipolar but after this most recent hospitalization the doctor wanted to just diagnose me as having boderline personality disorder I feel like I identify more with bipolar emotions but I also see some overlap with boderline symptoms I m unsure as to what to think Anyone else gone through something similar this is somewhat traumatic because I ve also had trouble trusting my emotions and my bipolar diagnosis Overall I m extremely confused and scared",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been recently diagnosed with borderline personality disorder after years of being told I was bipolar I was on several different medications for bipolar and they all made me worse so I ve decided I don t want to try medicine again I was curious as to how others cope with their thoughts and feelings I am usually okay and my SO has been trying to help but I still get dug into a depression hold that lasts for days",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "because I don t think I am a mostly empty shell Depression and self hatred keep me from being a completely empty shell is going to get me this internship do I talk about likes and dislikes hobbies that I m a student at x college which the interviewer already knows I want a job in y field am I missing the point of the question entirely I have absolutely no idea how to answer that question when it feels like I have no self outside of my depression self hatred",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Does any one else every feel like bad things happen because they are being punished for bad things they did in the past",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just don t get it why can t I like men who are actually interested in me Why do I develop these stupid feelings for people who won t return them and more so for a hot minute there I am typically convinced they actually like me That makes things so much worse for me Every time I realize my mistake it s like going off a heroin binge i e so painful I wanna die",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I log in on the chat and write how the things are They broke me I haven t done anything wrong It s on them I ll be dead in 5 minutes I put whatever personal information for the verification of my cold body Just a fantasy",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "i am so tired im tired of all the bullshit that goes on in my life and in my head i just cant take it anymore i cut for the first time in 6 years today and it felt damn good im just so angry and its the only way to get rid of the anger i just cant continue to live like this i want to die really thinking about taking all the pills i have and just ending it im so tired",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am falling in love with someone and there s never been one time I was happy in love and it s always been super painful and every time it gets worse and worse And this time I am falling again and I am dreading the moment it all comes crashing down and trying to come up with some contingency plans to prevent myself from suicide when it all goes sideways and I was wondering if anyone has any suggestions Thanks in advance",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Do i just wait until suicide is my escspe of do I alloe every little but important thing fall one or two at a time I m stuck I wsnt out Shit",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been reading everyone s posts on here and I completely understand how everyone is feeling I have been borderline no pun intended suicidal for a few months now I m so sad and alone all the time but I hate people so yeah Thank you for all your posts",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I really can t do this anymore This disorder is eating me ruining my relationship and turning me into a complete stranger I m tired of hurting my girlfriend everyday another borderline but she won t stop hurting me either And what s worse is I don t even think she sees it I don t want to deal with life anymore I m tired of being alive with no purpose I m tired of me not mattering I m so damn tired And I have no one to even help or talk to",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "This week has been so shit I missed a training class missed group and my personal therapist is away I missed catching up with my mum and now I m suicidal Everything sucks",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Yes Ive posted a lot I cant stop thinking about that girl f n someone Why did she tell me Why did she use me I dont know what to do Suicide seems the only option to escape this pain",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Title says it all ive started to lose hope at times Mood swings are intolerable I m still trying to figure if god is hinting at its my destiny to kill myself Too much gone wrong",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Yesterday I had a breakdown for the first time in months I asked my friend to talk to me she didn t reply Asked another friend to talk to me she didn t reply I asked my sister to talk to me She called me a sociopath Nothing really helped and right now I feel so stupid Like I want to hurt myself but for no reason other than to do it Being crazy sucks Just when I thought it was going away I snapped and probably should have been put on suicide watch by my parents",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been lurking here for a couple of weeks trying to tell myself I m not alone and I can deal with it It didn t work and I tried to end it all I failed at that and ended up ODing on Cymbalta I m now in a suicide prevention home I just want to do it again Now I don t have pot for temporary relief and I m trying to find ways to cope with my BPD and life in general Not sure of what it ll get me to post here but what the heck Maybe someone who knows what I m going through can help",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It won t stop I don t understand what is wrong I m so confused and I hate myself for it I can t keep living like this Everything hurts What do I do I want to die and I have to work today I can t talk to customers and I look strung out on drugs because I am",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I don t know what to do anymore I can t stop self harming I don t want to fight anymore I hate myself I know I m crazy and everyone knows it I m afraid",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I noticed that I tend to overreact and jump to the worst possible conclusion Like my brother didn t answer his phone so I freaked out thinking he was dead Then I relapsed on drugs after months of clean time and I freaked out thinking I would fall back into that life and everyone would hate me so I crashed my car into a bridge trying to kill myself My therapist said overreacting was a part of being borderline",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I was diagnosed with BPD a few days back after years of suicide attempts I ve been reading a book called I hate you don t leave me and its been a great help but my main issue is dealing with the splitting I can t seem to calm down nor focus on what is going on Which then makes me worse I don t feel safe in expressing the emotions that lead me to the splitting moment and it mostly happens when I m out in public What ideas do people use with splitting TIA",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just don t want to try anymore I m too much for everyone and I just want to die and not have to deal with this for any longer I m so tired of it all I m tired of hearing that there are plenty of other fish in the sea I m tired of hearing that this will pass I m tired of hearing things will get better and I m tired of hearing that I don t need a permanent solution to a temporary problem It s not worth the pain",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "There is no cure for mental illness No matter what treatment I have or what meds I try from now on this is a part of me and all my control on the outside is for the benefit of other people On the inside I m always going to feel this way After letting that sink in I don t think I can go on",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I feel like I m losing all hope I posted about this a few days ago but I m pretty sure I ve just lost a friend because of my issues and now ending it all seems to be the only way to escape the pain I ve hurt someone I really cared about and I can t forgive myself for that",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I told him about my BPD today Then proceeded to get blind drunk and call him a million times and he said I would have wanted to hang out with you until you kept calling me and being so annoying sometimes I feel like it s self fulfilling but I don t want to take the easy way out like that Sometimes I feel like I m getting better then I have days like today and realize that I am so monumentally fucked",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I keep meeting people at meetups that are just plain weird or give me red flags Most people don t make sense to me I miss having my ex he lied and cheated but at least he understood me and made sense He also hated most people like I did no one made sense to him either We at least had each other I just wish he didn t cheat or tell me that I was a waste of life I d rather be dead than alone I can t live like this",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I was diagnosed with BPD a couple of years ago Therapy is a thing for me So is self harm but I haven t done it in a while I m looking for support and I don t know where to find it Mental illness is pretty taboo where I live so finding others with similar problems has been really difficult I am the only diagnosed borderline I know",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Yes the mood swings can be tough but what s worse is the numbness I just feel this kind of melancholic emptiness where I feel alien in my own skin It s an awful feeling and I m desperate to escape it Drugs and alcohol don t do it for me but I feel like pain might I want to go get a tattoo just for the sensation to feel something anything even if only for a few minutes I ve never cut before but now I m wondering is this why people do it",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Yesterday would of been my anniversary with my ex Christmas has really set me back and yesterday has done it more I m 159 clean but have really strong urges to cut I don t want to break my streak but I miss the sensation so bad I m going to get through this I know I d just appreciate some kind words support off people who care",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am suicidal and need to go to the hosptial but im low income and the thought of going to get help and then leaving with thousands in medical bills makes me even more anxious I live in missouri and am looking for a hosptial that will give me sliding scale fee or no payment help I do have insurance btw",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been all over the range of emotions today and I just need a hug Not helped by basically being told I m worthless earlier I hate this so much I just want to give up What s the fuckin point of being alive like this Miserable Ostracized A freak Fuck this Fuck bpd",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "People of r BPD I m very worried that I may have BPD myself Recently I have been experiencing the following 1 Intense raging sometime over minor things like losing at a video game 2 Feeling guilty over said rage 3 Legitimately punching and slapping myself 4 The loss of multiple friends Does it sound like I have BPD And if so what do I do about it",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "There s a big chance that I m going to lose someone very soon I tried to protect her but I can t I don t know how to keep living without her She made me promise that I d move on if anything happens but I don t know how",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My ex keeps screwing me over and my heart is so broken I came close to hurting myself last night I m acting crazy I m been sleeping around I have an Adderall prescription and I ve been abusing it I m not eating or sleeping and I just keep humiliating myself I feel like I m losing my mind I m trash I hate myself This pain is unbearable and I ve been making myself so sick over everything and I wish I would just die already I don t know what to do I have no one",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Like it really eats at me I know that I am attached hard to my friends and all but seeing them call each other best friends and stuff It really causes major issues with me My mood plummets like no tomorrow What can I do about this Probably nothing right now because I sincerely feel like killing myself again but if I make it out alive somehow the hell can I do Now to go and find all my meds and contemplate taking them all at once",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I remember her saying she doesn t feel human and doesn t feel attached emotionally to events Also the main character said she could never keep a job for more than six months among other things She also commits suicide",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m in a legitimately bad place My current girlfriend has been MIA for several days now and I didn t do anything that would have caused her to be pissed at me I m so sick of being abandoned I miss my ex girlfriend I m listening to the depressing part of the 2011 Footloose soundtrack and I am in the let s end it mood If anyone is away right now just give me some comforting words or a better music suggestion Thank you for your time with my stupid problems",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I need to know that it would even be possible I know without a doubt that it would be impossible to love someone like I love him I don t want to live if I m never going to fall in love again how could I ever love someone else when I feel that I will truly never stop loving him I feel that this love far transcends BPD it is absolutely real and I don t know what to do because he has left me",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "for the past two ish weeks i have been feeling great now since a few days ago i have been having this itch i dont know how to describe it it feels like im going back into a down depressed mood again but it feels different like i m so agitated and fucking i dont know i cant describe this feeling it feels like i m about to lose it or attempt to hurt myself or fucking run head first into a car",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Every time my life starts to look up and I get a taste of normalcy and happiness it just blows up in my face I fall lower then I was before I hate it I hate having this disorder I hate being this way it seems no matter how good I am at coping or how well therapy is going it doesn t matter in the end because the borderline bitch always comes out and has to ruin it all I just want to fucking die because there s no point in reliving the same cycle of pain and bullshit over and over again",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "On Thursday I will see a psychiatrist for assessment to see what kind of treatment and medications I will need I m so scared I don t know what to expect I don t even know if I want any help because I don t think I will ever get better",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "i m most likely to fly into what i consider a bpd attack anxious angry super irritable but not a full rage when i m in bed this is one of the reasons i prefer to sleep alone even though i have a SO how about you",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It s like everything inside me just created pain and suffering It s like my mind is a torture machine I didn t ask for this I don t want this I don t want to have such unpredictable reactions to the most random trivial things They just cripple me and cause me to shut down and run and then I get farther and farther from the normal social reactions I m trying to establish for myself Fuck everything Fuck this I hate this I m sorry for all of you guys out there that have to suffer this",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Hi so I m an 18 year old female with BPD I was okay for a few months after my meds started working but now it is the opposite I live in a small ish town of Australia and I don t know anyone else with BPD or even someone who knows someone else with BPD I would really love to talk to someone who also has BPD or a SO or friend of someone who is diagnosed Preferably female but anyone would be great",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m not even going to bother trying to socialize with my coworkers anymore Every single piece of information I let drop about my personal life gets used against me in some way later on",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I just don t know what to do Ignoring them and moving on doesn t help but accepting it only makes them seem more normal and acceptable Any responses are deeply appreciated Does hypnosis help Does meditation help Does reading free self help books help Please feel free to tell me Also Please do not recommend DBT therapy or medication I m young and do not have a job money or any emotional or financial support system",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It seems like please don t tell anyone is a foreign phrase Nobody will keep your secrets And if they do it will only be until they piss you off or until you piss them off Then they ll become poisoned with anger and will try and spite you in the worst way possible Trust me",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve got my first date soon with a girl I ve been talking to a lot I m enamored obviously How do I chill out and not scare her away I m afraid I ll go overboard cause of the BPD stuff",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It s been very hard to find It almost seems like my only option is going to the States and paying thousands of dollars The only treatments I can find are year long outpatient centers in other provinces which isn t an option",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am about to walk out of a 7 year relationship with a patient loving man because I have fallen in love with someone who thinks I am amazing perfect etc I know that he does not know the darkness in me yet I know that I am buzzing from the validation and excitement I don t know what to do Being alone is not an option at the moment I live with my SO and don t have somewhere else to stay Also the only person I want to be with when I feel so broken is my SO Help",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Many times where I don t express myself or a need I have I basically tear myself up I have a voice inside telling me that I m never gonna be able to be successful because I can t stand up for myself It s not an all or nothing thing I ve spoken up for myself lots of times But if my anxiety shoots up and I avoid it this voice comes up and it can be really strong and I catastrophise a lot",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Right now that s totally how I feel I m afraid to move stuff in my room out of fear I will get in trouble I don t know what to do next I have stuff I want to do today but I feel like I m not capable of doing it Its like I m sharing the control panel to my mind with someone else",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Right now it seems like I m talking to myself from the bottom of a well Like my true voice is fading away or going inside my mind Do you think I m disassociating or that this feeling of being deep inside is a trigger for disassociating I m not exactly sure what s going on but I feel like I m in a dream state I m trying not to react cause that ll make it worse I think I m wondering how to improve it cause it kinda sucis",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Does anyone else really struggle with work Sometimes even the thought of having to get ready for work is really overwhelming for me And then when I m at work and I m asked to do things or change my shifts last minute I feel like I can t say no",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I don t know why I don t It s hell and I wish it could go away but I don t wanna get better Maybe it s some kind of self pity or attention seeking I dunno Anyone else know what I mean",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "How many people feel like they literally just never had a family growing up and to this day I mean never felt loved or accepted Missed so many small simple things like coming home to find dinner waiting staying up late and laughing and playing games watching each other grow and learn and experience life Hopefully that makes enough sense",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "What would it be like I m thinking more and more in terms of acceptance of my core issues qualities However without any reliable self it s kind of hard to know what the goal looks like Also any recovery stories would be much appreciated",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Hi all I get really reactive in social situations Especially if there is someone there that I want attention from If this person talks to someone else I feel is a threat I just feel really angry and resentful and I start to shut down emotionally What coping skills do you use for situations like this",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I have read up a lot on BPD and it fits me to the t I don t know that I necessarily have the motivation to go get help or what I would even say if I did",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My life reminds me of trying to swim in a stormy ocean I feel if I stop going through all the motions I ll just drown At one point I was hoping that I d reach shore soon enough i e living my life would require less effort but right now I think life is just that all the time endless struggle to stay above the water surface",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Hey guys So if you read the title of my thread you know what kind of person I am I d really love to make male friends and talk to other BPD males in my age group I m really desperate to have someone to talk to My loneliness is slowly killing me I hope I m not bothering anyone or anything If I am I apologize Take care Good luck and have a good day Your friend brmnt",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Title says it all I have mood swings of all types The typical ones you d expect from bpd anger anxious depressed etc but also ones where I m peppy and happy and get shit done A month or so ago I had one where I was just happy for like a week but went back down to shit after that Anyone else get things like these",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "This is more than likely a repost somehow and I did not write this by any means But reading this over my morning coffee really hit home and almost perfectly summed up what this hell in my mind is So take what you want from it I just wanted to share that we re not alone and speaking about it is okay http elitedaily com life like feel anxiety ridden sometimes no control 945502",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I am completely obsessed with a girl my boyfriend jerked off to She used to be our neighbor Ever since i found out he did this I have been doing everything i can to look like her I stopped myself from getting my nose pierced and dying my hair black but im afraid I will give in very soon Someone please help me This is taking over my life",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "im a girl and im pansexual bisexual bpd does affect my sexuality and gender identity anyone out there who feels what im saying any other queer borderlines out there for support",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I know it s a BPD thing but I hate it I feel so crazy right now I could climb up the walls I feel like I need to go out and do something but I don t know what Nothing is good enough No one will talk to me I feel like I need an S O but they would hate me too I feel like I ll never be wanted or good enough I hate hate hate this Just ugh Sorry for the rant guys I just need to vent",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Is it normal to feel deeply emotionally hurt but directed toward yourself almost as if you were the one doing something wrong when someone finds a flaw in someone you idealize are attached to or if someone finds a flaw in or you learn something new about your idealized person that triggers a shift in your own identity",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m moving into a house with 4 roommates tomorrow I feel self conscious Sometimes when I m at home I disassociate and talk to myself I associate that with shame Also my last roommate was incredibly abusive and I never left til I had to call the cops on him So I m a little stressed I m thinking that it s going to be stressful for me for awhile I m gonna definitely be wondering what my roommates think of me and if they like me or not for awhile",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I don t know what to say but I have been trying to date And it s not going well I keep ruining everything by just being myself crazy I don t know how to keep a lid on it to be with someone and not be crazy I m so fucking lonely So Fucking Lonely I have zero friends Just coworkers and people who know me but are close It just I don t understand",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I think I do this frequently I ll read about some famous person I read a lot of biographies If I read something that even remotely reminds me of myself then I apply it to myself I feel like I do this in an attempt to figure out my own personality but it doesn t work because I only focus on negative stuff usually So it amounts to me just beating myself up emotionally",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I have recently been diagnosed with Borderline Personality Disorder Having heard the news it wasn t a complete shock but it was hard to hear as I have a multitude of other problems MDD GAD OCD Hoping to discover some resources to help cope and deal with this",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I feel like Im way too high excited after meeting people about implementing parts of my thesis How do I validate myself without going overboard and getting manic Actually I think I already am a little manic Bottom line is I need to chill and not get ahead of myself",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "ive been chasing after my girlfriend for the past 7 years we finally got together last year and now i find i dont want her to visit me at uni this weekend and i can tell if she comes up ill just pick a fight WTF can i do i know ive jammed her on a pedestal far higher than any man or woman could possibly remain on ive gone WEVE gone through too much i cant stand it what can i do",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "For instance I regularly dye my hair various different colors If I have the same color for more than a week I start to get antsy and hate it I feel like this is definitely a bpd thing and was wondering if any of you do similar stuff",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Not sure if this breaks any rules or not I just feel very misunderstood most days and I m curious if anyone near is suffering as well",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I can t tell anymore and I ve been feeling like I m losing my mind",
+    "output": "Emotional Distress"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "If Hell is real I m definitely going to it So is 95 of the human race Good people go to hell I have suicide in the back of my mind as a permanent Plan B a way to escape when inevitably for me everything goes wrong But if hell and heaven come to think of it is eternal there is no escape Ever And that really hits me sometimes",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I m pretty sure I m being broken up with tomorrow and I m wondering how to prepare myself for it I m scared how I m going to react Right now I only feel a little nauseous from anxiety but otherwise I m keeping my composure But I self harmed this week so I m worried about doing that again or worse I have a therapist appointment tomorrow and I m going to talk to her about it too but I was just wondering if anyone here had advice too",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I have BPD diagnosis myself but I haven t self harmed much Recently I caught a close friend doing it we are both adults I was shocked I stopped him and held hugged him tightly until he felt better until I was quite sure he won t continue at least that night I didn t and don t really know what to do Professional help isn t available to him",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "My brother has done some really fucking awful unforgivable things to me And I tell my mom I m feeling invalidated and I do it in a positive way that fosters communication SHe basically tells me that I am going to meet rude people in like Yeah I fucking know that But I don t have to watch you love those people I want to ruin things and break things Or kill myself I want to make her care",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "i move in 12 days and they re demolishing the building in 12 5 days maybe if i stay in the building they ll crush me and i ll be free from this fucking hell we call a world",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "Even when I don t feel depressed I was so used to feeling that way that I didn t realize that it wasn t normal Girlfriend leaves me Let s open up our wrists Parents are moving Guess I better kill myself Nothing to do Want to die I ve got to be in a certain mood to actually attempt though Can anyone relate",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "These are gonna be permanent Hmm gonna go for the left now",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I ve been reading about places in Europe that allow euthanasia for otherwise healthy mentally ill patients How do you feel about this The ONLY thing that gives me pause is the effect it would have on my family Is it unfair of them to not be supportive of suicide as an option to end my lifelong suffering or is it unfair for for me to resent them for this",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I fapped for about 5 times a day since I was 12 I am 22 now After stopping it and going to therapy I realized that it was just a strategy to handle my extreme emotions I relapsed in the last days because I cant handle my emotions anymore I feel so hopeless My brain is so fucked up because of my fucked up life I just want to not be alive anymore I just want someone to listen because my friends will not understand it",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "It s that time of night where I can t do anything about it but something hit me mentally and I found something and I need I desperately need to contact someone and have them confirm this for me but I can t I just want to kill myself I just wish I could kill myself",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I only cause hurt and pain in this world I have no idea why anyone still tries to love me I think I ll park my car in the garage and leave it on as I read reddit for a while This has to end",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I need so much help I hit an all knee low last night I intentionally overdosed on my anxiety medication I had to of taken easily over 1000mgs I don t know if it was a suicide attempt but I knew that for sure I was going to be knocked out cold I felt awful all day I was very lightheaded I tried to hydrate as much as I could I am physically feeling better now emotionally I don t know where I stand I just don t care about my safety anymore it is kinda sad",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "How do you deal with a break up and BPD I already had a suicide attempt and stay in icu and the psych ward I have a new therapist luckily but it just hurts so much I don t know how to fucking deal I just have been turning off reality hoping its all fake",
+    "output": "Suicidal Reference"
+  },
+  {
+    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
+    "input": "I have fallen for my therapist I know rationally that it is never going to be anything but I obsess over it and live my life around when I can see my therapist next I think I am getting worse because of it It just makes me feel hopeless and I want to just end it so I can stop feeling this forbidden impossible feeling I feel like I am suffocating",
+    "output": "Suicidal Reference"
   }
 ]
