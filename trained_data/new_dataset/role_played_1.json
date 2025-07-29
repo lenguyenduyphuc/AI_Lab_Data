@@ -191,11 +191,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She calls me bipolar, abnormal and that I don't deserve and belong in this family because I'm not 'extroverted' like them, (at least in front of them) and that I openly opposed their racist, homophobic, sexist and islamophobic comments a few times. Oh yeah and that I should commit suicide since I'm depressed anyway.",
-    "output": "Suicidal Reference"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Saw this quote a while back and I find it pretty grounding. ESPECIALLY having BPD when life is literally about how we react to things whether internally or externally. Are emotions even real or just some weird mechanism of a fleshy part of our body called the brain. I hope maybe this helps someone.",
     "output": "Safe/Neutral"
   },
@@ -262,11 +257,6 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "'An interesting angle of organized religion is that religious persecution is never ok unless your defending your own religion. xc2 xa0 You all aren't victims of religious oppression. xc2 xa0 You are the oppressors. xc2 xa0 BTW, i'm not gay. xc2 xa0 I just love how you people try to defend your persecution of others while claiming your are being persecuted.'",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "The entitled parents will retaliate even harder by claiming Gabe had committed crimes such as theft, sexual assault, harassment (which some may be true) and even gotten his stepsiblings involved. None of us are 18 Update 2: first of all, his family is getting ready to claim sexual harassment, not that it's true.",
     "output": "Attacking Behavior"
   },
   {
@@ -446,11 +436,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She looked at me and saw that I was typing on my tablet and then went: 'Keep typing on your tablet and I'll smash it into pieces.' I panic because I haven't had this tablet for a year and here she is saying she's gonna break it. Can I ask rq smth?",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "My parents have no idea this has been going on for years, they have no idea the boys made me consider suicide on multiple occasions, but I'm extremely scared to tell them. I think my childhood friends abused me, but my parents don't know and I don't know how to tell them.",
     "output": "Suicidal Reference"
   },
@@ -497,11 +482,6 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "'truthfully your logic with the '1/5' and the 'political statement' just made everyone a little bit more dumb on this article comment section. In fact you are probably in the '1 and 5 ' xa0 (the bullshit irrelevant statistical fact you made up) group. Put the remote down and read a book, retard.'",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "F: That's my bike Db: No it isn't it was just sitting here F: No idiot just because it's lying there doesn't mean it dont belong to anybody Db: *le gasp* I'm telling mum you called me an idiot! We didn't offer him he just tried to take it Bm: Your lying.",
     "output": "Attacking Behavior"
   },
   {
@@ -706,11 +686,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "And she brags about how she puts the fear of God in us every time someone tells her that her kids are so good. Well, a good mother doesn't put the fear of God in her children nor does she tease one of them for being 'the dumb one.' Just saying.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Instead of shutting up, I cried harder and until I couldn't breathe (Baby's first panic attack, I guess), and she held true to her word. Entitled woman chokes 7 yr old for playing on a wii This happened about 10 or so years ago when I was about 7 (17M now).",
     "output": "Attacking Behavior"
   },
@@ -722,11 +697,6 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "'You certainly are as 'right wing' as they come, aren't you? xc2 xa0 Way to blow your own cover. xc2 xa0 Do you know what Romney's best quality is? xc2 xa0 He's NOT Obama. xc2 xa0 For someone who lectures on gender tolerance, you sure like to bash others' religions. xc2 xa0 I thought I smelled a hypocrite in our midst.'",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "From what they tell me, he had a severe gambling and alchohol addiction. Entitled parent protects and encourages her son's sexual harassment tendencies This isn't a classic entitled parents story, but the actions of an overprotective parent had some affect on the situation so I decided to post the story here.",
     "output": "Attacking Behavior"
   },
   {
@@ -848,11 +818,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Honestly though, I really just need to get out of the house, but i have severe anxiety and talking to people/any interaction with a new person is terrifying. I (18F) wish I wasn't so lonely I definitely have no friends, and not like everyone else, I literally have no friends.",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Now, everyone in the classroom (including him) knows that I get angry easily (I have OCD, ADHD, and aspergers). 'My dad is the superintendent so I can be an asshole to you.' Background: This is not an entitled parent but an entitled kid, whos father was my school district's superintendent.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -1141,11 +1106,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Had kids for free maids I could go into the more severe abuse my parents put on my sisters and I, like my dad trying to rip my eye out but that is a whole different story. I just want to post about their more sense of entitlement here.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "A cat with the body of a bodybuilder who will fight against a big alien army that has invaded planet Earth and captured all its inhabitants. Go through different levels using just your muscles to fight, or climbing like a kitty until you find the way to save humanity.",
     "output": "Safe/Neutral"
   },
@@ -1203,11 +1163,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "You'd think neonazis would have other business (I suppose we should be thankful they don't), but it does seem they like wiki's. May the spirit of Hanno, lamented pet pachyderm of Pope Leo X, haunt their sleep, trouble their dreams, and befoul their nests. 05:56 Feb 19, 2003 (UTC)",
     "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "But the lady actually fell over when I yelled at her, either out of fear or on purpose, I'm still not sure. Entitled mother broke my laptop because I refused to entertain her son with it You can already see from the title that this situation was rather stupid.",
-    "output": "Safe/Neutral"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -1541,11 +1496,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "(Which is impossible to edit someone's voice like that) PO2 arrested Karen for harassing, lying to a police officer, and stealing from us. EP wanting free drinks because they taste awful I want to apologize for any grammar or vocabulary mistakes that can be in the post.",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "se nota q no dedicaron suficientee tiempoo montandoloo.... se ve muy falsoo thats pretty damn fucked up. why do you humiliate yourselves by putting up this shit? you are gayand black ta wenizimooo!!!!!1 chencho es gay xD haha nerds are fags fags pussy!! GAP is for gays",
     "output": "Attacking Behavior"
   },
@@ -1586,11 +1536,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "`Thanks for experimenting with Wikipedia. Your test worked, and has been reverted or removed. Please use the sandbox for any other tests you want to do. Take a look at the welcome page if you would like to learn more about contributing to our encyclopedia. Thanks. `",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Quick history - issues at age 16 regarding depression and possible suicide attempts, takes medication for depression and sees a psychologist every 2 weeks until things leveled out, more recently once a month. I have always been hesitant to punish her severely because of the depression issues.",
     "output": "Suicidal Reference"
   },
@@ -1598,11 +1543,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I have really bad anxiety- to the point where I genuinely cannot step within 10 feet of my class if I'm even just 3 minutes late. Now, I did end up going to my school therapist, but I had high anxiety for the rest of the day.",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She says that I need to shave my legs, go on birth control for my acne, that I need to use make-up, ect, ect. You're going to get fat.' I get concerned when I have complications related to birth control, but she still insists I need it.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -1761,11 +1701,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She went back and kept sending her kids in the front to our seats and bother us by pushing our food trays, pulling my backpack and crying and punching us. Mom thinks she deserves the aisle seat So this happened to me a couple years ago.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "sorry for the crappy cell phone video wow what a bunch of racist faggots... i hope these fuckers rot in hell... my 4 stroke 72cc can go 50mph my 150 limits out at 84 according to gps sweet now i have a bricked phone.... thanks jackass",
     "output": "Attacking Behavior"
   },
@@ -1793,11 +1728,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "A very long, detailed post on why I deserved my loneliness and depression. I was so depressed that I didn't bother showing up to classes, I would spend my financially refund on a bunch of junk food just to keep my mind occupied from the depression.",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "i know i haven't been perfect and i've said some things to them out of anger that i shouldn't, but are they in the right to say this to me? my mom has threatened to take money out of my account without my permission twice now.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -1878,11 +1808,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I am just so worried and stressed, I have been having suicidal thoughts through all of quarantine and my only two friends were the people who probably saved me from suicidal attempts, or suicide itself. I just came out as genderfluid to my dad last night.",
     "output": "Suicidal Reference"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "But it's been nearly two years since then and after cutting contact my mom has shown up at my old house for my birthday, knowing I wasn't interested in seeing her anymore. My entitled parents are stalking me to start talking to them again Hi there.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -1971,11 +1896,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "How do you think r/BPD is doing? Questions? Complaints? Suggestions? Need to vent about the sub? All the mods will be here to answer your questions and provide feedback! All feedback is welcome. Please be courteous and respectful to your fellow r/BPD members and mods!",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "More backstory, I have had constant emotional traumas from the past enough from Autism and anxiety, but I need no pity. I kept walking, meanwhile having a panic attack because I knew I would be in trouble like normal since I'm 15 and she's 10.",
     "output": "Emotional Distress"
   },
@@ -2061,11 +1981,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "More backstory, I have had constant emotional traumas from the past enough from Autism and anxiety, but I need no pity. I kept walking, meanwhile having a panic attack because I knew I would be in trouble like normal since I'm 15 and she's 10.",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "He's disappointed at my asocial behavior, I barely talk with anyone because of my social anxiety, and recent depression. My depression was a result of not having a job, being stressed out with community college and having pressure on me to work around the house.",
     "output": "Emotional Distress"
   },
@@ -2098,11 +2013,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "She has diagnosed OCD and she assaulted my partner in my own house, she also repeatedly hit me and tried to get me to suicide while we were together). I feel terrified, alone and helpless and I dont want that fear to get my son.",
     "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "The YG has since testified against her mom, that alleged abuse had happened frequently and often times she was left alone for days - sometimes weeks! Entitle Mom DEMANDS her 11yr old daughter to get a pregnancy/drug test Forewarning: This may be NSFW or graphic for some.",
-    "output": "Safe/Neutral"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -2306,11 +2216,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "My Entitled mom keeps stealing my stuff I am an adult, and if you look at my post history you will know my family is far from normal. My Entitled enabler mom keeps stealing my stuff and making up stories claiming they are hers.",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "` :U.S. support to Juarez, especially in the form of weapons, came after the end of the American Civil War. They also allowed Juarez' government to operate for some time from American soil. That doesn't seem like ``little help`` to me. e | `",
     "output": "Safe/Neutral"
   },
@@ -2491,11 +2396,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Every woman I interact with I immediately fear. 18m, TW: SA survivor and addict with no friends at the end of highschool I am currently nearing the final months of my senior year of school and I feel completely alone and empty inside.",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "She was born with autism and ADHD and was delayed verbally, not speaking until first grade. We don't want to force her into doing anything she doesn't want but also we don't think this level of consistent isolation is great for her either.",
     "output": "Safe/Neutral"
   },
@@ -2576,11 +2476,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Yesterday I was out fixing my gate because some absolute pricks have been cutting the wires off it again. ' I have EVERY right to abuse my children.' -EM There's not much to this story nor does it have a satisfying end.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I have been dealing with this monster for what seems like an eternity and I fear for my future if he's in it, as well as that of my future children. They all live in fear, but S/O has it the worst.",
     "output": "Emotional Distress"
   },
@@ -2593,11 +2488,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I hope my son doesn't follow in my footsteps Hey fellow dads Sorry for the clickbait title, but I really do hope my son is not following my footsteps. Here's a little background: I have two sons, Joe (13) and Theo (10).",
     "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "That's where we met EM2 who would challenge us to a fist fight at the ride exit for not letting her family cut in line. ED and EM assault us for refusing to let them cut in line at a theme park.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -2718,11 +2608,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I know the acne isn't caused by my eating habits, or stress cause all that is actually so much better now than it was pre pregnancy. Think I may have some sort of hormonal imbalance, not sure Age 33 if this helps.",
     "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "I have been dealing with this monster for what seems like an eternity and I fear for my future if he's in it, as well as that of my future children. They all live in fear, but S/O has it the worst.",
-    "output": "Emotional Distress"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -2923,11 +2808,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I hated school, and it didn't make it better that I was getting harassed, my depression and anxiety were at an all time high and the school decided to threaten me rather than work with me. I want to attend college.",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "And she believes that every one on the internet is lying to you, yet she seems to so lovingly believe her articles on the computer she has. My very religious mom calls me Demonic after I tell her I was atheist.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -3216,11 +3096,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "A) because maybe someone can find something useful from it, B) I need to trauma dump a little, and C) at the end of the day, I am thankful to be able to write it. A Dad's memoir of 2023.",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "I asked questions about things in the back ground, things in the foreground, things in between, and then i'd ask about things that weren't there to see if she would realize I was lying. I'm new and was referred here.",
     "output": "Safe/Neutral"
   },
@@ -3257,11 +3132,6 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "This is awesome. Stupid cunt. Love seeing scum bag criminals being killed. What was the shootout for though? What were they wanted for? What a moron. Only dude thats talented on the radio. i havent heard one shitty nas song..",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "So this story starts in the cafeteria where Ed decided to tell a bunch of boys 'to start recording if you want to see a proper cat fight'. My head really hurts and I hit my head during the fight.",
     "output": "Attacking Behavior"
   },
   {
@@ -3448,11 +3318,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "'I think the only trickle that effected you was the trickle of sperm your dad gave your mom and most of that trickled down her leg. Go back to sleep, we will wake you when you are needed again.'",
     "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "We have covered the topics of safety for/in our family home, consent/safe sex, dishonesty, birth control, STD's etcetera (before AND after the sneaking occurred). I know I can't control her actions or who she chooses to hang out with.",
-    "output": "Safe/Neutral"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -4991,11 +4856,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "This contains slight mentions of sexual assault and harassment, as well as pedophilia. Entitled dad plays the victim in a relationship he broke, then blackmails me into 'fixing' it.",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "'The bad part of the story is the dumb redneck Republicans, like yourself. Not sure if these folks are sociopaths like you, though, so you're probably a downgrade from them",
     "output": "Attacking Behavior"
   },
@@ -5156,11 +5016,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Some of the comments that i remember include 'wow dude, you just filmed a bunch of minors without their consent. Some students reported their channel for child abuse.",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Today and this week I've been thinking about being alone and having anxiety for a week or so. I'm 25 years old, I have autism, ADHD, and dysthymia.",
     "output": "Emotional Distress"
   },
@@ -5228,11 +5083,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "She has anxiety issues, which has led to a crazy amount of weed.",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "i stormed out, holding in my anger, and almost felt compelled to storm into the chapel and yell at her. Mother goes Parinoid",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -5658,11 +5508,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "You have a beautiful voice .",
     "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She starts crying harassment, calls me a brat one more time and appears to run away. EM gets mad at me because I 'don't deserve privacy'.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -6336,11 +6181,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "My dad and mum emotionally abuse and gaslight me, sometimes threatening to physically abuse me. My dad reminds me that I have no value.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Is it considered harassment if someone keeps death staring u making u uncomfortable? Is it considered harassment if your ex-friend keeps staring at you?",
     "output": "Attacking Behavior"
   },
@@ -6901,11 +6741,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "Please stop adding nonsense to Wikipedia. It is considered vandalism. If you would like to experiment, use the sandbox. Thank you.",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "` ==Split Article== That's a good split. I'm for it. The new topic could be ``Breast Implants Risks, Complications & Controversy```",
     "output": "Safe/Neutral"
   },
@@ -7136,11 +6971,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "FD: delete that footage, you didn't have my consent! EM: I don't need your consent dumbass, this is public land!",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "When something comes in front of your path you have two options. Give up, or move past it and don'tâ€¦",
     "output": "Emotional Distress"
   },
@@ -7148,11 +6978,6 @@
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "~She lives in a fairytale, somewhere to far for us to find. Forgotten the taste and smile of a worldâ€¦",
     "output": "Emotional Distress"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "She claims to be one in order to use the Bible and God as weapons of manipulation. It's all manipulation.",
-    "output": "Attacking Behavior"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
@@ -7407,11 +7232,6 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "so 3 reverts is allowed but 4 reverts isnt? am i allowed to edit if its not a revert?",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "They discuss addiction and mental health, relationships, older girlfriends from school etc. What would your Minecraft movie plot be?",
     "output": "Safe/Neutral"
   },
   {
