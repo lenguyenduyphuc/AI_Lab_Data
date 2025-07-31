@@ -1,0 +1,19 @@
+🗑️ BODY CONTENT DUPLICATE REMOVAL REPORT
+==================================================
+
+📊 SUMMARY:
+   • File: Tanvir_dataset.xlsx
+   • Original rows: 1,985
+   • Cleaned rows: 1,964
+   • Duplicates removed: 21
+   • Reduction rate: 1.1%
+
+📂 FILES CREATED:
+   • original_backup/Tanvir_dataset.xlsx - Backup of original
+   • cleaned_files/CLEANED_Tanvir_dataset.xlsx - Clean copy
+   • Tanvir_dataset.xlsx - Updated with clean data
+
+🔍 METHOD:
+   • Duplicate detection based on 'body' column content
+   • Text normalized (lowercase, trimmed)
+   • First occurrence kept, duplicates removed
