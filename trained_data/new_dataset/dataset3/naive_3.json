@@ -5201,11 +5201,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "HAHAHA THE LADY PULL JENNA ! WTF ! parece abispon I WILL LIKE TO BE IN THAT PARTYYY ! it will be the worst bond girl eveeeeeeer ! taylor you have enough money to take acting classes or to put a real actress your a great artist in the music not in acting !",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Screw obama i dont have a problem with democrats but obama is evil. Smosh! Wtf? Mittromney for president! The jesus one is really disrespectful.. Woah.... They worship satan smfh These faggots are terribleat singing... My voive is deeper thsn his Haha wow.. I want to do this now! :52 fucking creepy as shit! @Taco25689",
     "output": "Attacking Behavior"
   },
