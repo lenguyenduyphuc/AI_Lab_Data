@@ -1226,16 +1226,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're the reason no one feels safe.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You pretend to care, but you're selfish.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "You pretend to care, but you're selfish.",
     "output": "Attacking Behavior"
   },
@@ -1257,26 +1247,6 @@
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "People always regret trusting you.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "Your actions cause nothing but harm.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're a bully who enjoys power games.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "People always regret trusting you.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You use anger to manipulate situations.",
     "output": "Attacking Behavior"
   },
   {
@@ -1296,22 +1266,7 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You threaten others to feel superior.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "People are better off without you in their lives.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're always causing drama wherever you go.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You enjoy hurting others, don't you?",
     "output": "Attacking Behavior"
   },
   {
@@ -1322,51 +1277,11 @@
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "You're such a disappointment to everyone around you.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're aggressive and never listen to reason.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're such a disappointment to everyone around you.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "People are better off without you in their lives.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're verbally abusive and proud of it.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You manipulate others to get your way.",
     "output": "Attacking Behavior"
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Your behavior is hostile and unacceptable.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "No one respects you because you're a fraud.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You're quick to attack anyone who disagrees.",
-    "output": "Attacking Behavior"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "You mock people when they're vulnerable.",
     "output": "Attacking Behavior"
   },
   {
@@ -8998,11 +8913,6 @@
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Here is list of some famous fugures and their mental illness",
     "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "AWAKE at Loveland High School will address anxiety, depression, bullying",
-    "output": "Emotional Distress"
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",

@@ -7981,11 +7981,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "I don't want to be here anymore.",
-    "output": "Suicidal Reference"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "I wish I could just disappear forever.",
     "output": "Suicidal Reference"
   },

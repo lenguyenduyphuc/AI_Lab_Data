@@ -2721,11 +2721,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "i can't do this anymore",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "i hate you bpd I'm so sick of these emotional whirlwinds. happy, best day of my life, followed by mild irritation and disgust, next to the verge of all out rage, and finally to the depths of despair and needing to cry. all in the matter of a couple of hours. i don't know how to deal with it and I'm sick of trying. thank you for letting me vent.",
     "output": "Attacking Behavior"
   },
@@ -4001,11 +3996,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "i don't know what to do",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "what does it mean to just fucking be so paranoid. like i will literally run around town like a paranoid maniac and i feel like everyone is against me. i dont hear voices other than my own voice and i dont see things i just feel like im batshit insane for about 3h a friend usually says something that calms me down and then i completely snap out of it. but i just feel absolutely feral and unhinged and i wanna say psychotic but its not the right word i think but yea. anyone feel like this?",
     "output": "Emotional Distress"
   },
@@ -4387,11 +4377,6 @@
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "mental health support",
-    "output": "Safe/Neutral"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "exhaustion or dissociation?",
     "output": "Safe/Neutral"
   },
   {
@@ -6136,11 +6121,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "i need to dull the self hatred",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "said goodbye to my fp i finally said goodbye to my fp. i'have been emotionally draining around him. i kept on seeking reassurance and my suicidal thoughts are too much. he says he won't leave me, but he can't give me his attention and time whenever i need it. and that makes sense, i don't want to cross his boundaries. i just feel sad, because he used to be more caring. and right now, he seems fed up with me. i told him sorry and that he deserved better. he then also said he was sorry. and from there i haven't responded. i think he's happier without me. i'm feeling broken i think, like my world just disappeared. it hurts so much",
     "output": "Suicidal Reference"
   },
@@ -7267,11 +7247,6 @@
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "struggling to be vulnerable to my boyfriend i have always had the tendency to 'give-in' to what others want rather than going with what i want. i have a feeling it has to do with validating myself based on what others think of me. i find myself wanting to not be judged for a 'wrong' decision or suggestion. anyways, i have never faced major consequences from doing this, so i guess i thought it was okay to continue giving up my own beliefs and values when i met my boyfriend about 3 months ago. i would always agree to do whatever he wanted, even if he insisted that we do something i wanted. at first it was just about what we'd have for dinner or what movie to watch. however, of recent times, we have been dealing with conflicts regarding his social drinking. it's not that he drinks a ton, but i never really wanted my partner to be associated with regular drinking (he drinks with friends about two or three nights a week). but due to my tendencies, i wasn't able to express my displeasure with him and we've had two separate cases where i would end up avoiding him. i would feel upset that he's out for the night, don't really respond to him, and the next morning i would feel terrible because i know i never expressed my feelings and he'd feel pretty stressed wondering why i was so distant. we've tried to talk this out, but i haven't been able to pinpoint what really triggers my flight response. my boyfriend is very understanding and is willing to support me in any way he can so i want to bring the idea up to him that it may be my bpd tendencies, but i don't want to overwhelm him with the details. i can't even put into words how i feel and why i feel that way sometimes so how should i start making progress with this?",
-    "output": "Emotional Distress"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "i can't do this anymore",
     "output": "Emotional Distress"
   },
   {
