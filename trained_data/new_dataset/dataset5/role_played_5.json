@@ -1501,11 +1501,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "https://t.co/6MPqRunPeX https://t.co/6MPqRunPeX",
-    "output": "Error - Invalid Format from AI"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Ever feel like everyone's better off without you, because me fucking too.",
     "output": "Suicidal Reference"
   },
@@ -5391,11 +5386,6 @@
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
-    "input": "He:I knew that even if I reached my dream, it could not be everything. I love you. I was sick that we could get tirÃ¢Â€Â¦ https://t.co/Vg9o3u1JZh",
-    "output": "Error - Invalid JSON"
-  },
-  {
-    "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "Good morning, everyone! I hope you have a great start to the day! *raises cup of coffee*",
     "output": "Safe/Neutral"
   },
@@ -7032,7 +7022,7 @@
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
     "input": "thinking about killing myself i got raped at 10 years old by a drunk homeless man and who is trying to find where i live and i am now 19 year old boy with no friends my gf dumped me everyone hates me my mom and dad hate me i got abused when i was kid i dont have any reason to live anymore i want to kill myself",
-    "output": "Error - API Failure"
+    "output": "Suicidal Reference"
   },
   {
     "instruction": "You are a mental health assessment expert, with years of experience. This task is absolutely crucial and you have to do it as accurately as possible. You need to analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Classify the following message with one or more of the following labels: Emotional Distress, Attacking Behavior, Suicidal Reference or Safe/Neutral:",
