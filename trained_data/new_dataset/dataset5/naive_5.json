@@ -1501,11 +1501,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "https://t.co/6MPqRunPeX https://t.co/6MPqRunPeX",
-    "output": "Error - Invalid Format from AI"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Ever feel like everyone's better off without you, because me fucking too.",
     "output": "Suicidal Reference"
   },
@@ -5391,11 +5386,6 @@
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
-    "input": "He:I knew that even if I reached my dream, it could not be everything. I love you. I was sick that we could get tirÃ¢Â€Â¦ https://t.co/Vg9o3u1JZh",
-    "output": "Error - Invalid JSON"
-  },
-  {
-    "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "Good morning, everyone! I hope you have a great start to the day! *raises cup of coffee*",
     "output": "Safe/Neutral"
   },
@@ -7032,7 +7022,7 @@
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
     "input": "thinking about killing myself i got raped at 10 years old by a drunk homeless man and who is trying to find where i live and i am now 19 year old boy with no friends my gf dumped me everyone hates me my mom and dad hate me i got abused when i was kid i dont have any reason to live anymore i want to kill myself",
-    "output": "Error - API Failure"
+    "output": "Suicidal Reference"
   },
   {
     "instruction": "Analyze the provided messages from user and determine/classify whether the content is mentions or implies suicidal thoughts, ideation, or self-harm; shows signs of depression, anxiety, or psychological struggle; covers bullying, sexual content, or any predatory behavior intended to harm, exploit, or intimidate; no signs of emotional risk, distress, or concerning behavior or too ambiguous to label with confidence. Respond with \"Suicidal Reference\", \"Emotional Distress\", \"Attacking Behavior\" or \"Safe/Neutral\" only.",
